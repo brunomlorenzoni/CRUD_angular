@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "tenis Adidas",
+      "price": "300"
+    },
+    {
+      "id": 2,
+      "name": "celular",
+      "price": "3000"
+    },
+    {
+      "id": 3,
+      "name": "computador",
+      "price": "8000"
+    },
+    {
+      "id": 4,
+      "name": "aaaaaa",
+      "price": "015"
+    }
+  ]
+}
